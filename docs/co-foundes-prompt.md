@@ -1,0 +1,8 @@
+"I am one of the cofounders of a company and I need your help to create a document that describes what the ideal website should hold. The name of the company is Bonae Tech. It is founded by three sisters with technical background, entrepreneurialism and specialization in hospitality. We have come together to bring modernization and digitization services in venezuela and greater Latin America and beyong. Bringing technology to small to medium size businesses does not have to be difficult or expensive. Creating a website for a user does not have to be extremely costly or complex. We can help businesses reach their customers where they are and provide the information they need instantly. No need to use pen and paper, everything can be digitize and tracked online. Keeping in mind accuracy, integrity and security of data and customer information. We understand what the venezuelan public needs and we also have a global view that can bring modernization from international practices to the "pepito stand" in any corner of venezuela. With 30+comabined years of experiences in technology, hospitality and entrepreneurialism we have the skill and preparation to deliver software thatr meets the expectation of our customers, so they can meet the expectations of theirs. No need to break the bank, we keep it simple so you can afford it. 
+
+We offer services like: digital presence services: websites, social media frameworks, digital web services, small CRM solutions. We are expanding our portfolio and offerings to meet the needs of customers, in any social media platform they are and online or on their phone.
+
+We want to get in touch with you, so reach out now and we can do that."
+
+
+
