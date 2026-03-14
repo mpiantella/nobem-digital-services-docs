@@ -1,6 +1,11 @@
 # Hosting like Heroku
 
-## Prompt
+The following list of options is based on Heroku business model and offerings. The architecture needs to accomodate deployments of multiple websites and other components like CRM, WhatsApp integration apps and other discovered services. 
+
+- What is the correct way to create and host them? Mono repos or separate repos?
+- Do we need to get a repo licence for all the different sites?
+- Can the sites be deployed from different repos? For simple sites, what is the best architecture for a growing business that can be hosting in the hundreads or thousands?
+- Be sure to keep the architecture simple but that it can grow.
 
 ## Response
 
